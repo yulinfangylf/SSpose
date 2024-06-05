@@ -11,7 +11,7 @@ SSpose is a spatial-aware human pose estimation model based on the CNN-Transform
 * Linux
 * Python 3.7+
 * CUDA 10.2+
-* GCC 5+
+
 
 ### Training and evaluation
 * See [PRETRAIN.md](PRETRAIN.md) for pretraining.
