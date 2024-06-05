@@ -1,5 +1,7 @@
 ## Pretraining SSpose Model
 
+![Pre-training](pic/Pre-training.jpg)
+
 The following table provides pretrained checkpoints and logs.
 | | SSpose-B|
 | :---: | :---: |
