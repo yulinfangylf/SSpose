@@ -63,7 +63,7 @@ The following table provides pretrained checkpoints and logs.
 The pretraining and finetuning of our project are based on [DeiT](https://github.com/facebookresearch/deit) and [MAE](https://github.com/facebookresearch/mae). Thanks for their wonderful work.
 
 ## License
-SSpose is released under the MIT License.
+SSpose is released under the [MIT License](https://github.com/yulinfangylf/SSpose/blob/main/LICENSE).
 
 
 
