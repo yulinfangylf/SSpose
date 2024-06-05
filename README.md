@@ -6,8 +6,6 @@ SSpose is a spatial-aware human pose estimation model based on the CNN-Transform
 
 ![SSpose](pic/SSpose.jpg)
 
-![Pre-training](pic/Pre-training.jpg)
-
 ## Pretrain on ImageNet-1K
 The following table provides pretrained checkpoints and logs.
 | | SSpose-B|
